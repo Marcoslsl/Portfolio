@@ -19,32 +19,19 @@ function Footer() {
               >
                 Home
               </Link>
-            </li>
+            </li>{" "}
             <li>
-              <Link
+              <a
                 activeClass="navbar--active-content"
                 spy={true}
                 smooth={true}
                 offset={-70}
                 duration={500}
-                to="MyPortfolio"
+                href="mailto:marcosviniciuseg@outlook.com"
                 className="text-md"
               >
-                Portfolio
-              </Link>
-            </li>
-            <li>
-              <Link
-                activeClass="navbar--active-content"
-                spy={true}
-                smooth={true}
-                offset={-70}
-                duration={500}
-                to="AboutMe"
-                className="text-md"
-              >
-                About Me
-              </Link>
+                Contato
+              </a>
             </li>
           </ul>
         </div>

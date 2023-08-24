@@ -57,6 +57,62 @@ function Navbar() {
             >
               Home
             </Link>
+          </li>{" "}
+          <li>
+            <Link
+              onClick={closeMenu}
+              activeClass="navbar--active-content"
+              spy={true}
+              smooth={true}
+              offset={-70}
+              duration={500}
+              to="AboutMe"
+              className="navbar--content"
+            >
+              Sobre mim
+            </Link>
+          </li>
+          <li>
+            <Link
+              onClick={closeMenu}
+              activeClass="navbar--active-content"
+              spy={true}
+              smooth={true}
+              offset={-70}
+              duration={500}
+              to="Experience"
+              className="navbar--content"
+            >
+              Experiências
+            </Link>
+          </li>
+          <li>
+            <Link
+              onClick={closeMenu}
+              activeClass="navbar--active-content"
+              spy={true}
+              smooth={true}
+              offset={-70}
+              duration={500}
+              to="Education"
+              className="navbar--content"
+            >
+              Educação
+            </Link>
+          </li>
+          <li>
+            <Link
+              onClick={closeMenu}
+              activeClass="navbar--active-content"
+              spy={true}
+              smooth={true}
+              offset={-70}
+              duration={500}
+              to="mySkills"
+              className="navbar--content"
+            >
+              Tecnologias
+            </Link>
           </li>
           <li>
             <Link
@@ -69,37 +125,23 @@ function Navbar() {
               to="MyPortfolio"
               className="navbar--content"
             >
-              Portfolio
-            </Link>
-          </li>
-          <li>
-            <Link
-              onClick={closeMenu}
-              activeClass="navbar--active-content"
-              spy={true}
-              smooth={true}
-              offset={-70}
-              duration={500}
-              to="AboutMe"
-              className="navbar--content"
-            >
-              About Me
+              Projetos
             </Link>
           </li>
         </ul>
       </div>
-      <Link
+      <a
         onClick={closeMenu}
         activeClass="navbar--active-content"
         spy={true}
         smooth={true}
         offset={-70}
         duration={500}
-        to="Contact"
+        href="mailto:marcosviniciuseg@outlook.com"
         className="btn btn-outline-primary"
       >
-        Contact Me
-      </Link>
+        Entre em contato
+      </a>
     </nav>
   );
 }

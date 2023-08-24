@@ -1,6 +1,6 @@
 export default function Education() {
   return (
-    <section id="Experience" className="education--section">
+    <section id="Education" className="education--section">
       <div className="hero--section--content--box about--section--box">
         <div className="hero--section--content">
           <p className="section--title"></p>

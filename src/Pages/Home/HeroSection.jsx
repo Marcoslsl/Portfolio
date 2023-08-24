@@ -13,7 +13,9 @@ export default function HeroSection() {
             Com foco em desenvolvimento de software
           </p>
         </div>
-        <button className="btn btn-primary">Get In Touch</button>
+        <a href="mailto:marcosviniciuseg@outlook.com">
+          <button className="btn btn-primary">Contato</button>
+        </a>
       </div>
       <div className="hero--section--img">
         <img src="./img/header-img.svg" alt="Hero Section" />
