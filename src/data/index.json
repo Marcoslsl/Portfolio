@@ -1,0 +1,95 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Linguagens de Programação",
+      "description": ["Python", "JavaScript", "Node", "TypeScript", "Golang"]
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End Frameworks",
+      "description": ["FastApi", "Flask", "Django", "Express", "Nest", "Gin"]
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Banco de Dados",
+      "description": ["MySql", "Postgres", "SQLite", "MongoDB"]
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Cloud",
+      "description": ["AWS", "GCP", "Docker", "Kubernetes", "MLOps", "RabbitMQ"]
+    },
+    {
+      "id": "5",
+      "src": "./img/feather-pen-1.png",
+      "title": "Dados e ML",
+      "description": [
+        "Machine Learning",
+        "Deep Learning",
+        "PySpark",
+        "Pandas",
+        "Tableu",
+        "Power BI",
+        "Looker Studio",
+        "MLflow"
+      ]
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "health_insurance_cross_sell",
+      "description": "Construir um modelo que prediz a probabilidade de um cliente ser classificado como uma pessoa que irá querer adquirir o novo seguro. Criação de uma Api para consumo das predições",
+      "link": "View In Github",
+      "link_github": "https://github.com/Marcoslsl/health_insurance_cross_sell"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Redes Neurais convolucionais",
+      "description": "Construir um modelo de deep learning para previsão do tempo de vida restante para rolamentos.",
+      "link": "View In Github",
+      "link_github": "https://github.com/Marcoslsl/CNN_Bearing"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Rest Api",
+      "description": "CRUD utilizando Typeorm, Typescrip e express com deploy na AWS",
+      "link": "View In Github",
+      "link_github": "https://github.com/Marcoslsl/RestApiTs"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
