@@ -15,10 +15,12 @@ export default function AboutMe() {
             Engenharia de dados, Análise de dados, Ciência de dados e
             desenvolvimento de software/MLOPS
           </p>
+          <br />
           <p className="hero--section-description">
-            Tenho mais experiência na área de dados como cientista de dados e
-            Engenheiro de Machine Learning. Gosto bastante da área de
-            desenvolvimento backend também.
+            Onde mais gosto de atuar é com o desenvolvimento de software para
+            área de dados, como Data Pipelines, ETL's e MLOps. Gosto bastante da
+            área de desenvolvimento backend, arquitetura de software, Devops e
+            cloud. No frontend gosto de brincar com React!
           </p>
         </div>
       </div>

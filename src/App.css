@@ -1,4 +1,9 @@
 /* Global CSS */
+* {
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
 
 body {
   margin: 0;
