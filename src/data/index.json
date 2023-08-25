@@ -2,41 +2,51 @@
   "skills": [
     {
       "id": "1",
-      "src": "./img/product-chain-1.png",
+      "src": "./img/terminal.svg",
       "title": "Linguagens de Programação",
       "description": ["Python", "JavaScript", "Node", "TypeScript", "Golang"]
     },
     {
       "id": "2",
-      "src": "./img/tag-1.png",
+      "src": "./img/server.svg",
       "title": "Back-End Frameworks",
       "description": ["FastApi", "Flask", "Django", "Express", "Nest", "Gin"]
     },
     {
       "id": "3",
-      "src": "./img/feather-pen-2.png",
+      "src": "./img/save.svg",
       "title": "Banco de Dados",
       "description": ["MySql", "Postgres", "SQLite", "MongoDB"]
     },
     {
       "id": "4",
-      "src": "./img/feather-pen-1.png",
+      "src": "./img/cloud.svg",
       "title": "Cloud",
       "description": ["AWS", "GCP", "Docker", "Kubernetes", "MLOps", "RabbitMQ"]
     },
     {
       "id": "5",
-      "src": "./img/feather-pen-1.png",
-      "title": "Dados e ML",
+      "src": "./img/bar-chart.svg",
+      "title": "Dados",
+      "description": [
+        "PySpark",
+        "Pandas",
+        "Airflow",
+        "Tableu",
+        "Power BI",
+        "Looker Studio"
+      ]
+    },
+    {
+      "id": "6",
+      "src": "./img/cpu.svg",
+      "title": "IA",
       "description": [
         "Machine Learning",
         "Deep Learning",
-        "PySpark",
-        "Pandas",
-        "Tableu",
-        "Power BI",
-        "Looker Studio",
-        "MLflow"
+        "MLflow",
+        "TensorFlow",
+        "Scikit-learn"
       ]
     }
   ],
