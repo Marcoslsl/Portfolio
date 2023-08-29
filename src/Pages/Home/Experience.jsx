@@ -16,6 +16,7 @@ export default function Experience() {
             <br />
             <br />
             <h4>Principais Projetos</h4>
+            <br />
             <ul>
               <li>
                 <span>
