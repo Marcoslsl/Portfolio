@@ -23,42 +23,83 @@ export default function Education() {
             <br />
             <h4>Publicações</h4>
             <ul>
+              <br />
               <li>
-                <a
-                  href="https://proceedings.science/sbpo/sbpo-2020/trabalhos/uso-da-analise-por-envoltoria-de-dados-dea-para-avaliacao-da-eficiencia-na-gesta?lang=pt-br"
-                  className="button-link"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <span>
-                    {" "}
-                    <strong>Artigo Publicado no SBPO</strong>{" "}
-                  </span>
-                </a>
+                <span>
+                  {" "}
+                  <strong>Artigo Publicado no SBPO</strong>{" "}
+                </span>
                 <p>
                   USO DA ANÁLISE POR ENVOLTÓRIA DE DADOS (DEA) PARA AVALIAÇÃO DA
                   EFICIÊNCIA NA GESTÃO DE RESÍDUOS ELETROELETRÔNICOS, Nyedja
                   Nayanne Bezerra de Oliveira Santos, Marcos Vinicius Lira
                   Santana, Patrícia Guarnieri, Lucio Silva.
+                  <a
+                    href="https://proceedings.science/sbpo/sbpo-2020/trabalhos/uso-da-analise-por-envoltoria-de-dados-dea-para-avaliacao-da-eficiencia-na-gesta?lang=pt-br"
+                    className="button-link"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <br />
+                    <br />
+                    <p className="text-sm education--link">
+                      Link Publicação
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="16"
+                        height="16"
+                        viewBox="0 0 20 19"
+                        fill="none"
+                      >
+                        <path
+                          d="M4.66667 1.66675H18V15.0001M18 1.66675L2 17.6667L18 1.66675Z"
+                          stroke="currentColor"
+                          stroke-width="2.66667"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                        />
+                      </svg>
+                    </p>
+                  </a>
                 </p>
               </li>
               <br />
               <li>
                 {" "}
-                <a
-                  href="https://books.google.com.br/books?id=fdOgEAAAQBAJ&printsec=frontcover&sourc#v=onepage&q&f=false"
-                  className="button-link"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <span>
-                    <strong>Capitulo de Livro</strong>
-                  </span>
-                </a>
+                <span>
+                  <strong>Capitulo de Livro</strong>
+                </span>
                 <p>
                   Capitulo (Avanço na análise de séries temporais, pág 144) de
                   um livro com os melhores trabalhos da disciplina de Análise de
                   séries temporais em R.
+                  <a
+                    href="https://books.google.com.br/books?id=fdOgEAAAQBAJ&printsec=frontcover&sourc#v=onepage&q&f=false"
+                    className="button-link"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <br />
+                    <br />
+                    <p className="text-sm education--link">
+                      Link Publicação
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="16"
+                        height="16"
+                        viewBox="0 0 20 19"
+                        fill="none"
+                      >
+                        <path
+                          d="M4.66667 1.66675H18V15.0001M18 1.66675L2 17.6667L18 1.66675Z"
+                          stroke="currentColor"
+                          stroke-width="2.66667"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                        />
+                      </svg>
+                    </p>
+                  </a>
                 </p>
               </li>
             </ul>

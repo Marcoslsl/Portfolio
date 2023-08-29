@@ -392,9 +392,18 @@ h2 {
   text-decoration: none;
   display: flex;
   gap: 16px;
-  border-bottom: 1.33px solid var(--primary);
+  border-bottom: 3.33px solid var(--primary);
   padding-bottom: 10.6px;
   font-weight: 600;
+}
+.education--link {
+  text-decoration: none;
+  display: flex;
+  gap: 16px;
+  border-bottom: 3.33px solid var(--primary);
+  padding-bottom: 10.6px;
+  font-weight: 600;
+  width: 9%;
 }
 .portfolio--section--card:hover path {
   stroke: #006b6a;
