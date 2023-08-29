@@ -53,7 +53,7 @@
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
+      "src": "./img/Captura de tela de 2023-08-29 16-16-45.png",
       "title": "health_insurance_cross_sell",
       "description": "Construir um modelo que prediz a probabilidade de um cliente ser classificado como uma pessoa que irá querer adquirir o novo seguro. Criação de uma Api para consumo das predições",
       "link": "View In Github",
@@ -61,7 +61,7 @@
     },
     {
       "id": "2",
-      "src": "./img/placeholder-image-1.png",
+      "src": "./img/Captura de tela de 2023-08-29 16-17-50.png",
       "title": "Redes Neurais convolucionais",
       "description": "Construir um modelo de deep learning para previsão do tempo de vida restante para rolamentos.",
       "link": "View In Github",
@@ -69,7 +69,7 @@
     },
     {
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
+      "src": "./img/Captura de tela de 2023-08-29 19-43-36.png",
       "title": "Rest Api",
       "description": "CRUD utilizando Typeorm, Typescrip e express com deploy na AWS",
       "link": "View In Github",
