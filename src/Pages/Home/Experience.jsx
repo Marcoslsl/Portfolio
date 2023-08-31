@@ -46,6 +46,31 @@ export default function Experience() {
                 </p>
               </li>
             </ul>
+            <br />
+            <h2>Comunidade DS</h2>
+            <br />
+            <p className="experience--section-info">
+              Cientista de dados aprendiz - 2021/2022
+            </p>
+            <br />
+            <ul>
+              <li>
+                Desenvolvimento de projetos de ciência de dados end-to-end,
+                desde a concepção do problema de negócio até a disponibilização
+                dos modelos e/ou análises.
+              </li>
+              <br />
+              <li>
+                Participação em grupos de estudos focados em estatística e
+                Machine Learning.
+              </li>
+            </ul>
+            <br />
+            <p className="experience--section-fer-description">
+              <strong>Ferramentas:</strong> Python, Flask, Análise de dados,
+              Visualização de dados, Machine Learning, Deep Learning,
+              Estatística, SQL, web scraping.
+            </p>
           </p>
         </div>
       </div>
