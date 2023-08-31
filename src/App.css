@@ -90,6 +90,7 @@ p {
   text-decoration: none;
   outline: none; /* Remove a borda de foco */
 }
+
 /* Global CSS Ends */
 /* Main Headings */
 
@@ -404,6 +405,15 @@ h2 {
   padding-bottom: 10.6px;
   font-weight: 600;
   width: 9%;
+}
+.education--link--tcc {
+  text-decoration: none;
+  display: flex;
+  gap: 16px;
+  border-bottom: 3.33px solid var(--primary);
+  padding-bottom: 10.6px;
+  font-weight: 600;
+  width: 7%;
 }
 .portfolio--section--card:hover path {
   stroke: #006b6a;

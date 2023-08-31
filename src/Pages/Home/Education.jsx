@@ -12,6 +12,47 @@ export default function Education() {
             <br />
             <h4>Iniciação científica - PIBIC</h4>
             <br />
+            <h4>TCC</h4>
+            <p>
+              Previsão do Remaining Useful Life (RUL) para rolamentos
+              utillizando modelos de deep learning. Ferramentas: Python,
+              Spectrograma, TensorFlow.
+              <p className="experience--section-fer-description">
+                <strong>Ferramentas:</strong> Python, POO, Git, Github, R
+                (linguagem de programação), TensorFlow, Análise de dados, Deep
+                Learning
+                <a
+                  href="https://github.com/Marcoslsl/CNN_Bearing"
+                  className="button-link-tcc"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <br />
+                  <br />
+                  <p className="text-sm education--link--tcc">
+                    Repositório
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      width="16"
+                      height="16"
+                      viewBox="0 0 20 19"
+                      fill="none"
+                    >
+                      <path
+                        d="M4.66667 1.66675H18V15.0001M18 1.66675L2 17.6667L18 1.66675Z"
+                        stroke="currentColor"
+                        stroke-width="2.66667"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                      />
+                    </svg>
+                  </p>
+                </a>
+              </p>
+            </p>
+            <br />
+            <br />
+            <h4>Grupo de pesquisa</h4>
             <p>
               PIBIC 2019 - 2020: ESTUDO DE MODELOS PARA ANÁLISE DE EFICIÊNCIA
               AMBIENTAL COM BASE NA GESTÃO DE RESÍDUOS ELETROELETRÔNICOS.
